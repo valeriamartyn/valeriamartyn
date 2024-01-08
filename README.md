@@ -6,7 +6,7 @@
 
 ### Testing Documentation
 - [Check lists](https://www.youtube.com/watch?v=N-Rm6cBNWZQ)
-- [Test-Suites and Test-Cases](https://docs.google.com/spreadsheets/d/1qw2Tel6t_UTHVzRYGDFewjfbiL1OWunQowA1hW-9GLY/edit#gid=0)
+- [Test-Suites and Test-Cases](https://github.com/valeriamartyn/test-cases/blob/main/README.md)
 - [Bug Reports](https://www.youtube.com/watch?v=CVJw3rCw_Qc)
 - [SQL Queries](https://www.youtube.com/watch?v=FnK379DsOsk)
 ---

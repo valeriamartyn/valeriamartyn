@@ -1,8 +1,9 @@
-![Header](https://github.com/valeriamartyn/valeriamartyn/blob/main/Beige%20Feminine%20Personal%20LinkedIn%20Banner.png)
+![Header](https://github.com/valeriamartyn/valeriamartyn/blob/main/images.png)
 ---
-## I'm a Manual QA Tester
+## Hello I'm Valeriia
+
+I'm a Manual Software Tester who loves challenges and constantly improves my skills. I am detail-oriented and always eager to learn more about this field.
 [Link to my CV](https://drive.google.com/file/d/13PqLD0zlJLCwsYwS9ePZ5z6PNr1eLVj4/view?usp=drive_link)
----
 
 ### Testing Documentation
 - [Check lists](https://www.youtube.com/watch?v=N-Rm6cBNWZQ)

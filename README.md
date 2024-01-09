@@ -1,4 +1,4 @@
-![Header](https://github.com/valeriamartyn/valeriamartyn/blob/main/images.png)
+![Header](https://github.com/valeriamartyn/valeriamartyn/blob/main/main_banner-6.png)
 ---
 ## Hello I'm Valeriia
 
